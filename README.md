@@ -31,7 +31,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## How to start
 
-1) Download the application from  https://github.com/RQureshi/angular-7-api-demo
+1) Download the application 
 2) npm install
 3) npm start or ng serve -o
 4) Navigate to `http://localhost:4200/` in the browser

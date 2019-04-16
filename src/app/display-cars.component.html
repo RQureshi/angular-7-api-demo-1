@@ -1,0 +1,8 @@
+  <div *ngFor="let car of cars |orderBy : 'name' ">
+      {{car.name}}
+      <ul *ngFor="let type of car.cars | orderBy : 'make' ">
+        <li >Make : {{type.make}} </li>
+        <li>Model : {{type.model}}</li>
+     </ul>
+     
+  </div>

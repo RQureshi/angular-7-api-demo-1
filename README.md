@@ -49,6 +49,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 *app
     |--display-cars.component.ts (For using the data consumed by cars-api.service.ts)
+    
     |--display-cars.component.html (For displaying the car details )
 	
 
